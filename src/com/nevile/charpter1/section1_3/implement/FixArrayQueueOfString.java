@@ -80,10 +80,4 @@ public class FixArrayQueueOfString<Item> implements Queue<Item>
 		// TODO Auto-generated method stub
 		return null;
 	}
-
-
-
-	
-	
-
 }
