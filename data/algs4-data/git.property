@@ -14,3 +14,5 @@ git add and commit
 4、本地修改后，撤销修改。还原之前提交后的代码。
 5、本地修改后，添加到了index（stage），撤销stage中的修改。直接remove from index(stage)
 6、本地修改后，提交到了本地仓库，。
+
+7、创建dev分支后，修改提交。
