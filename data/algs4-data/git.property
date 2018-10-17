@@ -15,6 +15,4 @@ git add and commit
 5、本地修改后，添加到了index（stage），撤销stage中的修改。直接remove from index(stage)
 6、本地修改后，提交到了本地仓库，。
 
-7、创建dev分支后，修改提交。
-
-8、主分支修改。
+7、master1修改，未缓存，切换分支。使用stash 保存不缓存的状态。直接右键选择stash,选择stash 的备注。出现的页面点击右上角绿色部分即可。
